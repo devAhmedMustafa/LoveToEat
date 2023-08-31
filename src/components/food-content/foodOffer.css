@@ -1,0 +1,6 @@
+.offer_box{
+    background-image: linear-gradient(to left, #b90504 0%, #fe8851 100%);
+}
+.offer_box img{
+    /* filter: drop-shadow(2px 2px 10px black) */
+}

@@ -1,0 +1,18 @@
+.options ul li{
+    padding: 0px 12px;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: all 200ms;
+    justify-content: center;
+    align-items: center;
+}
+
+.options ul{
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
+
+.options li img{
+    transform: translateY(4px);
+}
